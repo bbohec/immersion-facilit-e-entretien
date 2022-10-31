@@ -10,7 +10,6 @@
   - Pas d'a priori sur le moyen de prouver le fonctionnement du besoin (IHM, tests, console...)
   - On a posé un starter mais tu peux le modifier si tu n'es pas à l'aise avec. Si tu as ton propre starter que tu peux monter rapidement avec tes choix technologiques, fais toi plaisir.
   - Tu es libre de consulter ce que tu veux (web, doc, l'équipe, stackoverflow, github...)
-- 15 minutes max
 - Il n'est pas nécéssaire de terminer l'exercice
 - Fais comme si tu étais déjà dans l'équipe
 - Tu peux nous poser des questions, des conseils...
@@ -36,9 +35,13 @@ Le starter utilise les technologies suivantes:
 
 `npm install`
 
-### Lancer l'IHM en mode dev
+### Lancer le front en mode dev
 
 `npm run dev`
+
+### Lancer le back
+
+`npm run start`
 
 ### Lancer tout les tests (fichiers se terminant en .spec.ts)
 
