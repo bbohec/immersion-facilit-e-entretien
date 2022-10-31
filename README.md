@@ -7,13 +7,13 @@
   - Pas de pattern de code prédéfini
   - Pas de méthodologie prédéfinie
   - Pas d'outillage imposé
-  - Pas d'appriori sur le moyen de prouver le fonctionnement du besoin (IHM, tests, console ...)
+  - Pas d'a priori sur le moyen de prouver le fonctionnement du besoin (IHM, tests, console...)
   - On a posé un starter mais tu peux le modifier si tu n'es pas à l'aise avec. Si tu as ton propre starter que tu peux monter rapidement avec tes choix technologiques, fais toi plaisir.
-  - Tu es libre de consulter ce que tu veux (web, doc, l'équipe, stackoverflow, github ...)
+  - Tu es libre de consulter ce que tu veux (web, doc, l'équipe, stackoverflow, github...)
 - 15 minutes max
 - Il n'est pas nécéssaire de terminer l'exercice
 - Fais comme si tu étais déjà dans l'équipe
-- Tu peux nous poser des questions, des conseils, ....
+- Tu peux nous poser des questions, des conseils...
 - L'exercice démarre quand tu es prêt
 
 ## Objectifs de l'exercice par priorité
