@@ -1,4 +1,4 @@
-# Exercice Immersion Facilité
+# Exercice Immersion Facilitée
 
 ## Conditions de l'exercice
 
