@@ -46,3 +46,10 @@ Le starter utilise les technologies suivantes:
 ### Lancer tout les tests (fichiers se terminant en .spec.ts)
 
 `npm run test`
+
+- Retirer Stackblitz
+- Virer les refs front
+- un fichier exercice.ts
+- un fichier exercice.spect.ts
+- un README.md
+- un fichier avec les données exportés en JSON
