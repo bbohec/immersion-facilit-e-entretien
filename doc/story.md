@@ -1,6 +1,3 @@
-
-
-
 ## Expression du Besoin
 
 ### Feature : Récupération des villes d'un département
@@ -67,6 +64,6 @@ Je peux obtenir la liste des villes pour un département donné.
 - Quand on veut récupèrer les villes du **_75_**.
 - Alors on ne retourne pas de villes.
 - Et on a une notification d'erreur qui indique:
-  > Il n'y a pas de villes dans le département 95.
+  > Il n'y a pas de villes dans le département 75.
 
 ---
