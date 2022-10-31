@@ -3,8 +3,8 @@
 ## Conditions de l'exercice
 
 - Ce qui compte c'est ton cheminement intellectuel
-  - Pas de choix tech prédéfinie
-  - Pas de pattern de code prédéfinie
+  - Pas de choix tech prédéfini
+  - Pas de pattern de code prédéfini
   - Pas de méthodologie prédéfinie
   - Pas d'outillage imposé
   - Pas d'appriori sur le moyen de prouver le fonctionnement du besoin (IHM, tests, console ...)
@@ -23,6 +23,16 @@
 1. Make it work
 2. Make it well
 3. Make it fast
+
+## Fonctionnement du starter
+Le starter utilise les technologies suivantes:
+- IHM avec composants ***reactjs*** et build au travers de ***vitejs***
+- Tests automatisés au travers de ***jest***
+- Spécification au travers de ***markdown***
+- Projet github récupérable [Lien Github](https://github.com/bbohec/immersion-facilit-e-entretien)
+ 
+### Lancer l'IHM React en mode dev
+
 
 ## Expression du Besoin
 
