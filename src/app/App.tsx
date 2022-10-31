@@ -5,7 +5,11 @@ const App = (): JSX.Element => (
     <h1>Exercice Immersion Facilitée</h1>
     <div className="card">
       <p>
-        Le besoin est exprimé dans <code>doc/story.md</code>.
+        La documentation du starter et les conditions de l'exercice:{' '}
+        <code>README.md</code>.
+      </p>
+      <p>
+        Le besoin exprimé: <code>doc/story.md</code>.
       </p>
     </div>
   </div>
