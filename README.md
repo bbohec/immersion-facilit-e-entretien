@@ -18,8 +18,6 @@
 
 ## Objectifs de l'exercice par priorité
 
-> Partage ton écran
-
 1. Make it work
 2. Make it well
 3. Make it fast
@@ -32,6 +30,7 @@ Le starter utilise les technologies suivantes:
 - Tests automatisés au travers de **_jest_**
 - Spécification au travers de **_markdown_**
 - Projet github récupérable [Lien Github](https://github.com/bbohec/immersion-facilit-e-entretien)
+- Le projet est utilisable sur l'IDE de ton choix et aussi sur [Stackblitz.com](https://stackblitz.com/edit/immersion-facilitee-entretien?file=README.md)
 
 ### Installer le projet
 
