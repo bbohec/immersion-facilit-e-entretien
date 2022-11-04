@@ -1,5 +1,5 @@
 [
-    {"name":"Cergy", "departement":"95"},
-    {"name":"Beauvais", "departement":"60"},
-    {"name":"Pontoise", "departement":"95"}
+    {"name":"Cergy", "department":"95"},
+    {"name":"Beauvais", "department":"60"},
+    {"name":"Pontoise", "department":"95"}
 ]
