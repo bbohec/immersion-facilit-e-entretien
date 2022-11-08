@@ -59,7 +59,7 @@ Je peux obtenir la liste des villes pour un département donné.
 ```
 
 Tout les scénarios utilisent la liste de ville standard suivante:
-**Il y a un fichier `cities.json` avec les données en JSON**
+
 
 ```
   | Ville     | Département |
@@ -68,6 +68,8 @@ Tout les scénarios utilisent la liste de ville standard suivante:
   | Beauvais  | 60          |
   | Pontoise  | 95          |
 ```
+
+> Il y a un fichier `cities.json` avec les données en JSON
 
 #### Scénario - Récupération des villes du 95:
 
