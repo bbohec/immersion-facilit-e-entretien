@@ -59,7 +59,7 @@ Je peux obtenir la liste des villes pour un département donné.
 ```
 
 Tout les scénarios utilisent la liste de ville standard suivante:
-**Il y a un fichier `cities.json` avec les données en JSON**
+**Il y a un fichier `src/data/cities.json` avec les données en JSON**
 
 ```
   | Ville     | Département |
