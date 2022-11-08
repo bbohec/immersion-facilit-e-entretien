@@ -1,2 +1,1 @@
-const run = () => console.log('Application Started');
-run();
+console.log('exercice was run ! (with TS)');
