@@ -34,20 +34,18 @@ Le starter utilise les technologies suivantes:
 
 `npm install`
 
-### Lancer le front en mode dev
+### TS : Lancer `exercice.ts`
 
-`npm run dev`
+`npm run ts`
 
-### Lancer le back
+### JS : Lancer `exercice.js`
 
-`npm run start`
+`npm run js`
 
-### Lancer tout les tests (fichiers se terminant en .spec.ts)
+### Lancer tous les tests (fichiers se terminant en .spec.ts)
 
 `npm run test`
 
-
-- un fichier avec les données exportés en JSON
 
 
 ## Expression du Besoin
@@ -61,6 +59,7 @@ Je peux obtenir la liste des villes pour un département donné.
 ```
 
 Tout les scénarios utilisent la liste de ville standard suivante:
+**Il y a un fichier `src/data/cities.json` avec les données en JSON**
 
 ```
   | Ville     | Département |
