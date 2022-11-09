@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "test": "jest --watchAll",
-    "build": "babel src --out-dir dist --extensions \".ts,.tsx\"",
+    "build": "babel src --out-dir dist --extensions \".ts,.tsx\" --ignore='**/*.spec.ts'",
     "typecheck": "tsc --noEmit",
     "ts": "npm run build && node dist/exercice.js",
     "js": "node src/exercice.js"
