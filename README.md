@@ -28,6 +28,7 @@ Le starter utilise les technologies suivantes:
 - Tests automatisés au travers de **_jest_**
 - Spécification au travers de **_markdown_**
 - Projet github récupérable [Lien Github](https://github.com/bbohec/immersion-facilit-e-entretien)
+- Si pas d'IDE > [Code Sandbox](https://codesandbox.io/s/github/bbohec/immersion-facilit-e-entretien?file=/README.md)
 
 
 ### Installer le projet
